@@ -1235,6 +1235,50 @@ a {
     margin-right: 2rem !important;
   }
 }
+.cid-tzhm05MIKy {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tzhm05MIKy .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tzhm05MIKy .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tzhlZuMAU0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tzhlZuMAU0 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tzhlZuMAU0 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tzhlZuMAU0 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tzhlZuMAU0 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+}
 .cid-tte0b4dgwP {
   padding-top: 90px;
   padding-bottom: 75px;
@@ -1313,27 +1357,6 @@ a {
     width: 100% !important;
     margin-left: 0 !important;
   }
-}
-.cid-ttcQgRLV4q {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/led-gigapixel-low-res-scale-4-00x-2000x1125.jpg");
-}
-.cid-ttcQgRLV4q .mbr-overlay {
-  background-color: #fafafa;
-  opacity: 0.8;
-}
-@media (min-width: 992px) {
-  .cid-ttcQgRLV4q form {
-    width: 50%;
-  }
-}
-.cid-ttcQgRLV4q form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-ttcQgRLV4q form .mbr-section-btn .btn {
-  width: 100%;
 }
 .cid-ttcPniGvrf {
   padding-top: 5rem;
